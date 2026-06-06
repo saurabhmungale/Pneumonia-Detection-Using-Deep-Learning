@@ -87,14 +87,13 @@ pip install kaggle tensorflow opencv-python
 
 ## 📁 Project Structure
 
-```
-pneumonia-detection-deep-learning/
+Pneumonia-Detection-Using-Deep-Learning/
 │
-├── pneumonia_detection.ipynb   # Main notebook
-└── README.md                   # Project documentation
-```
-
----
+├── results/                                        # Output graphs and screenshots
+│   └── placeholder.txt
+├── Pneumonia_Detection_Using_Deep_Learning.ipynb   # Main notebook
+├── .gitignore                                      # Ignored files
+└── README.md                                       # Project documentation
 
 ## 👤 Author
 
