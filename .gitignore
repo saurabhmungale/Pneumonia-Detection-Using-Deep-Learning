@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset
+chest-xray-pneumonia/
+chest-xray-pneumonia.zip
+
+# Kaggle API Key
+kaggle.json
+
+# Model weights
+*.h5
+*.keras
