@@ -83,18 +83,15 @@ Dense(2, Softmax)  →  NORMAL / PNEUMONIA
 pip install kaggle tensorflow opencv-python
 ```
 
----
-
-## 📁 Project Structure
-
+```
 Pneumonia-Detection-Using-Deep-Learning/
 │
-├── results/                                        # Output graphs and screenshots
+├── results/                                         # Output graphs and screenshots
 │   └── placeholder.txt
-├── Pneumonia_Detection_Using_Deep_Learning.ipynb   # Main notebook
-├── .gitignore                                      # Ignored files
-└── README.md                                       # Project documentation
-
+├── Pneumonia_Detection_Using_Deep_Learning.ipynb    # Main notebook
+├── .gitignore                                       # Ignored files
+└── README.md                                        # Project documentation
+```
 ## 👤 Author
 
 **Saurabh Mungale**  
